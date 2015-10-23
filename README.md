@@ -1,4 +1,4 @@
-# project-euler
+# Concordance
 
 A Python concordance program
 
