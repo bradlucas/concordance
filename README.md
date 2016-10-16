@@ -1,6 +1,6 @@
 # Concordance
 
-A Python concordance program
+A concordance program written in Python
 
 
 ## Usage
